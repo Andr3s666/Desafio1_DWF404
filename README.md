@@ -39,9 +39,6 @@ spring.datasource.username=sa
 ## ▶️ How to run
 Clone the repository:
 
-bash
-Copiar
-Editar
 git clone https://github.com/your-user/bookapi.git
 cd bookapi
 Open the project in IntelliJ IDEA
@@ -78,3 +75,6 @@ spring.datasource.password=
 spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 spring.h2.console.enabled=true
 spring.jpa.hibernate.ddl-auto=update
+
+## 👨‍🎓 Authors
+Andres Eduardo Navidad Flores (NF220677)
